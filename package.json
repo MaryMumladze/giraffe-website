@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "css": "tailwind build  src/style.css -o public/style.css"
+    "css": "tailwind build  src/style.css -o public/style.css  --watch"
   },
   "keywords": [],
   "author": "",
